@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/merts/Downloads/jars/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
